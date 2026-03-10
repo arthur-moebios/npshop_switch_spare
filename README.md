@@ -1,0 +1,1 @@
+# npshop_switch_spare
